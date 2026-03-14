@@ -162,7 +162,7 @@ Through the analysis, several insights emerged:
 Excel Analytics,Pivot Tables,Pivot Charts,Slicers,Calculated Fields,Excel Functions,XLOOKUP,IF,IFERROR,SUM,COUNT,AVERAGE,TEXT,Data Analysis Skills,Data Cleaning,Data Transformation,KPI Development,Dashboard Design,Business Insight Generation.
 
 ## 📷 Dashboard Preview
-(https://github.com/AmanKumar200/Amazon-Sales-Intelligence-Dashboard-Excel/blob/84c8d7ef0f24087dc2b2dbceadbe574d74bb0992/dashboard.png.png)
+<img width="1539" height="921" alt= https://github.com/AmanKumar200/Amazon-Sales-Intelligence-Dashboard-Excel/blob/84c8d7ef0f24087dc2b2dbceadbe574d74bb0992/dashboard.png.png/>
 
 ### 🚀 Why This Project Matters
 
