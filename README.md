@@ -17,7 +17,7 @@ Where cancellations are occurring and why
 
 Your task is to transform raw operational data into a decision-support dashboard that enables management to quickly identify trends, monitor KPIs, and make smarter business decisions.
 
-🎯 Project Goal
+## 🎯 Project Goal
 
 Build a dynamic Excel dashboard that converts raw transaction data into clear insights and performance indicators for business stakeholders.
 
@@ -29,7 +29,7 @@ The dashboard enables users to:
 ✔ Detect regional cancellation issues
 ✔ Explore insights interactively using filters
 
-🗂 Dataset Overview
+## 🗂 Dataset Overview
 
 The dataset simulates Amazon retail sales transactions including:
 
@@ -46,11 +46,11 @@ Delivery Status	Order completion status
 
 Total Records: 100 transactions
 
-🔎 Analytical Approach
+## 🔎 Analytical Approach
 
 The analysis followed a structured data analytics workflow similar to real-world projects:
 
-1️⃣ Data Cleaning & Preparation
+### 1️⃣ Data Cleaning & Preparation
 
 Before performing analysis, the dataset required preparation:
 
@@ -64,7 +64,7 @@ Identified cancelled orders using Cancel Date
 
 This step ensured the dataset was accurate and analysis-ready.
 
-2️⃣ Data Enrichment using XLOOKUP
+### 2️⃣ Data Enrichment using XLOOKUP
 
 To simulate real-world relational data, a Customer Master dataset was created.
 
@@ -76,7 +76,7 @@ Example formula:
 
 This allowed the dataset to become more informative and business-ready.
 
-3️⃣ Delivery Performance Analysis
+### 3️⃣ Delivery Performance Analysis
 
 To evaluate logistics efficiency, delivery speed was categorized:
 
@@ -86,41 +86,41 @@ This enabled tracking of fast vs slow deliveries across regions.
 
 Cancelled orders were handled using IFERROR to avoid calculation errors.
 
-4️⃣ Pivot Table Insights
+### 4️⃣ Pivot Table Insights
 
-Pivot tables were used to summarize business performance:
+### Pivot tables were used to summarize business performance:
 
 📊 Revenue by Region and Product Category
 📊 Order Count by Delivery Status
 📊 Average Delivery Time
 
-Average Delivery Time was calculated as:
+### Average Delivery Time was calculated as:
 
 Delivery Date – Order Date
 
-Pivot filters allow stakeholders to explore data dynamically.
+### Pivot filters allow stakeholders to explore data dynamically.
 
-📈 Key Business KPIs
+## 📈 Key Business KPIs
 
 The dashboard highlights important metrics used in retail performance monitoring.
 
-💰 Total Revenue
+### 💰 Total Revenue
 
 Total sales value generated from all transactions.
 
-⚡ Fast Delivery Rate
+### ⚡ Fast Delivery Rate
 
 Percentage of orders delivered within 2 days.
 
-🏆 Top Performing Regions
+### 🏆 Top Performing Regions
 
 Regions contributing the highest sales revenue.
 
-📦 Highest Selling Product Category
+### 📦 Highest Selling Product Category
 
 Product category generating the most revenue.
 
-❌ Cancellation Rate
+## ❌ Cancellation Rate
 
 Cancellation rate was calculated using:
 
@@ -128,33 +128,15 @@ Cancelled Orders / Total Orders
 
 This metric helps identify operational or logistical problems in specific regions.
 
-📊 Dashboard Design
+## 📊 Dashboard Design
 
 The final dashboard presents insights in a clean and interactive format.
+DATASET- (Copy of Week 3 Dataset.xlsx)
 
-Dashboard Components
+### Dashboard Components
+Filters (Slicers), Region, Payment Method, Delivery Status, Month, Visualizations, Revenue by Region, Sales by Product Category, Delivery Status Distribution, KPI Performance Cards
 
-Filters (Slicers)
-
-Region
-
-Payment Method
-
-Delivery Status
-
-Month
-
-Visualizations
-
-Revenue by Region
-
-Sales by Product Category
-
-Delivery Status Distribution
-
-KPI Performance Cards
-
-Layout Structure
+### Layout Structure
 Left Section → Interactive Filters  
 Center Section → Charts & Visual Analysis  
 Right Section → KPI Cards
@@ -173,61 +155,16 @@ Through the analysis, several insights emerged:
 
 ✔ A small number of regions account for most order cancellations
 
-These insights can help businesses improve:
+### These insights can help businesses improve: 1-Supply chain efficiency, 2-Inventory planning, 3-Regional sales strategies
 
-Supply chain efficiency
+## 🛠 Tools & Skills Demonstrated
+Excel Analytics,Pivot Tables,Pivot Charts,Slicers,Calculated Fields,Excel Functions,XLOOKUP,IF,IFERROR,SUM,COUNT,AVERAGE,TEXT,Data Analysis Skills,Data Cleaning,Data Transformation,KPI Development,Dashboard Design,Business Insight Generation.
 
-Inventory planning
+## 📷 Dashboard Preview
+![Dashboard Preview](images/dashboard.png)
 
-Regional sales strategies
 
-🛠 Tools & Skills Demonstrated
-Excel Analytics
-
-Pivot Tables
-
-Pivot Charts
-
-Slicers
-
-Calculated Fields
-
-Excel Functions
-
-XLOOKUP
-
-IF
-
-IFERROR
-
-SUM
-
-COUNT
-
-AVERAGE
-
-TEXT
-
-Data Analysis Skills
-
-Data Cleaning
-
-Data Transformation
-
-KPI Development
-
-Dashboard Design
-
-Business Insight Generation
-
-📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-Example:
-
-![Dashboard Preview](dashboard.png)
-🚀 Why This Project Matters
+### 🚀 Why This Project Matters
 
 This project demonstrates my ability to:
 
@@ -236,7 +173,7 @@ This project demonstrates my ability to:
 ✔ Apply analytical thinking to real business problems
 ✔ Use Excel as a powerful data analysis tool
 
-👤 About Me
+## 👤 About Me
 
 Aman Kumar
 
