@@ -30,6 +30,7 @@ The dashboard enables users to:
 ✔ Explore insights interactively using filters
 
 ## 🗂 Dataset Overview
+[DATASET](https://github.com/AmanKumar200/Amazon-Sales-Intelligence-Dashboard-Excel/blob/56aacea6c4169b796341c71ccd0f61dad6bc1cce/Copy%20of%20Week%203%20Dataset.xlsx)
 
 The dataset simulates Amazon retail sales transactions including:
 
