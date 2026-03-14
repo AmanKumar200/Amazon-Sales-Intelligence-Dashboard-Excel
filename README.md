@@ -1,7 +1,7 @@
 # Amazon-Sales-Intelligence-Dashboard-Excel
 Business intelligence dashboard built in Excel to analyze retail sales performance, delivery efficiency, and cancellation trends using Pivot Tables and advanced Excel functions.
 
-🧭 # Project Background
+# Project-Background
 
 Retail companies generate large volumes of transactional data every day. However, raw sales data alone rarely provides actionable insights for decision-makers.
 
