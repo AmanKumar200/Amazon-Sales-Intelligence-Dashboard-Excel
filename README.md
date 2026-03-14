@@ -132,7 +132,7 @@ This metric helps identify operational or logistical problems in specific region
 ## 📊 Dashboard Design
 
 The final dashboard presents insights in a clean and interactive format.
-DATASET- (Copy of Week 3 Dataset.xlsx)
+[DASHBOARD](https://github.com/AmanKumar200/Amazon-Sales-Intelligence-Dashboard-Excel/blob/84c8d7ef0f24087dc2b2dbceadbe574d74bb0992/dashboard.png.png)
 
 ### Dashboard Components
 Filters (Slicers), Region, Payment Method, Delivery Status, Month, Visualizations, Revenue by Region, Sales by Product Category, Delivery Status Distribution, KPI Performance Cards
